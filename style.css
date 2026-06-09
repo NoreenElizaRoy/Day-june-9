@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:100vh;
+    background-color: rgb(148, 231, 129);
+}
+
+button{
+    padding:20px;
+    width:200px;
+    border-radius: 20px;
+    border-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor:pointer;
+
+}
+button:hover{
+    background-color: rgb(231, 235, 113);
+}
